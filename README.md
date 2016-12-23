@@ -13,3 +13,6 @@ Change the variable 'dir' inside these two py files to the directory where you p
 For the py file calculating the VaR via Monte Carlo method, you should not only change the 'dir' but also the filename inside to do the calculation, since the volume of calculation is so large, in our demo, we just calculate VaR for one instrument.
 
 For the matlab gui, run it with the unzip stock.zip file inside the 'MATLAB_GUI' folder.
+
+
+Down load the data set we use from here http://stooq.com/db/h/
